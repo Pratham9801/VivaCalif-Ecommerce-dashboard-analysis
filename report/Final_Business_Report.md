@@ -65,9 +65,7 @@ The analysis focused on answering the following business questions:
    Promote bundle offers and quantity-based discounts for mid-priced products such as Tank Tops, Hoodies, and Leggings to increase average order value.
 
 3. **Optimize product portfolio**  
-   Reduce or rethink low-performing products with consistently low demand to control provisioning
-
-and inventory costs.
+   Reduce or rethink low-performing products with consistently low demand to control provisioning and inventory costs.
 
 4. **Strengthen operations in high-demand regions**  
    Improve delivery capacity in top-performing counties to avoid delays and protect customer satisfaction.
