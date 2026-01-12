@@ -27,6 +27,13 @@ This project analyzes Viva Calif E-commerce Store sales data to understand custo
 - `dashboard/` → Excel dashboard and visuals
 - `analysis/` → Question-wise analysis
 - `report/` → Final business recommendations
+  
+
+## 📄 Project Report
+
+A detailed business analysis report covering insights, recommendations, and limitations:
+
+👉 [View Full Business Report](report/Final_Business_Report.md)
 
 
 ## Dashboard Preview
