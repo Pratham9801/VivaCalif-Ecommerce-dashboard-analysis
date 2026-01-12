@@ -38,3 +38,7 @@ A detailed business analysis report covering insights, recommendations, and limi
 
 ## Dashboard Preview
 ![VivaCalif-Ecommerce-dashboard-analysis](dashboard/Viva_Calif_Dashboard_img.png)
+
+
+📘 Dataset details are documented in the 
+[data_dictionary.md](data/data_dictionary.md) file.
