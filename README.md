@@ -5,6 +5,13 @@ Exploratory data analysis and business insights from E commerce store  sales dat
 ## Project Overview
 This project analyzes Viva Calif E-commerce Store sales data to understand customer behavior, product performance, and operational efficiency using Excel dashboards.
 
+## 🔗 Project Assets
+
+- 📂 **Data Dictionary**: [View Data Definitions](VivaCalif-Ecommerce-dashboard-analysis/data/data_dictionary.md)
+- 📊 **Dashboard**: [View Excel Dashboard](VivaCalif-Ecommerce-dashboard-analysis/dashboards/VivaCalif-ecommerce-Project.xlsx)
+- 🧠 **Analysis Steps**: [View Analysis Process](VivaCalif-Ecommerce-dashboard-analysis/analysis/analysis_steps.md)
+ 
+
 ## Business Questions Answered
 1. How did sales and orders trend over the last 13 weeks?
 2. How do customers prefer to purchase (mode & gender)?
@@ -23,6 +30,15 @@ This project analyzes Viva Calif E-commerce Store sales data to understand custo
 - Uncovered delivery bottlenecks in high-demand regions
 - Provided actionable business recommendations
 
+## 📈 Business Impact
+
+- Identified **core revenue-driving products** (T-shirts, Jeans, Sneakers) to prioritize inventory and promotions.
+- Found strong **bulk-buying behavior**, bundle buy offers to increase order value.
+- Highlighted **high-performing regions** to focus marketing and operational efforts.
+- Detected **delivery delays in a few high-demand zones**, enabling targeted logistics improvements.
+- Confirmed overall **high customer satisfaction**, supporting safe business expansion.
+
+
 ## Files
 - `dashboard/` → Excel dashboard and visuals
 - `analysis/` → Question-wise analysis
@@ -39,6 +55,12 @@ A detailed business analysis report covering insights, recommendations, and limi
 ## Dashboard Preview
 ![VivaCalif-Ecommerce-dashboard-analysis](dashboard/Viva_Calif_Dashboard_img.png)
 
+## Data Source & Acknowledgement
 
-📘 Dataset details are documented in the 
-[data_dictionary.md](data/data_dictionary.md) file.
+- The dataset and dashboard inspiration were sourced from a publicly available YouTube tutorial.
+- All business questions, analysis, insights, and recommendations were independently developed as part of this project.
+
+**Credit:** YouTube channel – Chandoo
+
+
+
