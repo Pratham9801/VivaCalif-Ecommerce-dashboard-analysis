@@ -8,7 +8,7 @@ This project analyzes Viva Calif E-commerce Store sales data to understand custo
 ## 🔗 Project Assets
 
 - 📂 **Data Dictionary**: [View Data Definitions](VivaCalif-Ecommerce-dashboard-analysis/data/data_dictionary.md)
-- 📊 **Dashboard**: [View Excel Dashboard](VivaCalif-Ecommerce-dashboard-analysis/dashboards/Viva_Calif_Dashboard_img.png)
+- 📊 **Dashboard**: [View Excel Dashboard](VivaCalif-Ecommerce-dashboard-analysis/dashboard/Viva_Calif_Dashboard_img.png)
 - 🧠 **Analysis Steps**: [View Analysis Process](VivaCalif-Ecommerce-dashboard-analysis/analysis/analysis_steps.md)
  
 
